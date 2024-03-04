@@ -13,7 +13,7 @@ public class Main {
         System.out.println(media);
 
         String sinopse;
-        sinopse = "Filme de aventura com galã dos anos 80";
+        sinopse = "Filme de aventura ";
         System.out.println(sinopse);
 
         int classificacao = (int) (media /2);
