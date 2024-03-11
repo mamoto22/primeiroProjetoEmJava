@@ -12,7 +12,7 @@ public class LoopWhile {
             System.out.println("Digite sua avaliação para o filme ou -1 para encerrar ");
             nota = entrada.nextDouble();
 
-            if(nota != -1){
+            if(nota != -1) {
                 mediaAvaliacao += nota;
                 totalDeNotas++;
             }
